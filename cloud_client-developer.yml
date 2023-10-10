@@ -2,7 +2,7 @@ app:
   name: cloud-client-developer_2
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:15332/db_2
+    url: jdbc:postgresql://localhost:15333/db_1
     username: db
     password: db
   jpa:
