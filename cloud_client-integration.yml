@@ -1,0 +1,10 @@
+app:
+  name: cloud-client-integration
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:15332/db_2
+    username: db
+    password: db
+  jpa:
+    hibernate:
+      ddl-auto: none  
