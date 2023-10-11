@@ -1,5 +1,5 @@
 app:
-  name: cloud-client-developer_2
+  name: cloud-client-developer
 spring:
   datasource:
     url: jdbc:postgresql://localhost:15333/db_1
